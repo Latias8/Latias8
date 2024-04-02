@@ -4,7 +4,7 @@ Hi 👋 My name is Marko
 IT-Student // Full-Stack
 ------------------------
 
-I've been in this nerd school for 1 and a half years now. 'Been exposed to python, css/js, mysql, mariadb, mongodb, bash... you get the gist :) However, for most of my projects I've been using my school github account. Therefore the activity history of this account isn't as full, nor as old. But that ought to change! As for hobbies, I make music (and put it on yt, spotify...), 3d pose and render in Blender, edit videos and do other wack stuff in Photoshop and Illustrator, do martial arts and play the piano :D (Oh, and of course I play video games)
+I've been in this tech school for 1 and a half years now. 'Been exposed to python, css/js, mysql, mariadb, mongodb, bash... you get the gist :) However, for most of my projects I've been using my school github account. Therefore the activity history of this account isn't as full, nor as old. But that ought to change! As for hobbies, I make music (and put it on yt, spotify...), 3d pose and render in Blender, edit videos and do other wack stuff in Photoshop and Illustrator, do martial arts and play the piano :D (Oh, and of course I play video games)
 
 * 🌍  I'm based in Switzerland
 * ✉️  You can contact me at [marko.pereira@icloud.com](mailto:marko.pereira@icloud.com)
