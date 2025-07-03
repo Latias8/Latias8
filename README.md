@@ -1,13 +1,13 @@
-Hi 👋 My name is Marko
+Hi 👋 My alias is DeltaCaster
 ======================
 
 IT-Student // Full-Stack
 ------------------------
 
-I've been in this tech school for 2 and a half years now. 'Been exposed to python, css/js, mysql, mariadb, mongodb, bash... you get the gist :) However, for most of my projects I've been using my school github account. Therefore the activity history of this account isn't as full, nor as old. But that ought to change! As for hobbies, I make music (and put it on yt, spotify...), 3d pose and render in Blender, edit videos and do other wack stuff in Photoshop and Illustrator, do martial arts and play the piano :D (Oh, and of course I play video games)
+This account wasn't professionally initialised and I have ideas to move on to a new one sometime. Several private projects were also done per school-git-accounts, and aren't visible here. As for hobbies, I make music (and put it on yt, spotify...), 3d pose and render in Blender, edit videos and do other wack stuff in Photoshop and Illustrator, do martial arts and play the piano :D (Oh, and of course I play video games)
 
 * 🌍  I'm based in Switzerland
-* ✉️  You can contact me at [marko.pereira@icloud.com](mailto:marko.pereira@icloud.com)
+* ✉️  Contacting me is a bit of a trouble right now, I'd like to take time and set up a profesisonal system of emails and accounts. Until then, if you REALLY need to reach out, you'll no doubt have found a way already.
 
 ### Skills
 
