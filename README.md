@@ -1,4 +1,6 @@
-<img width="850" height="624" alt="testgifwelc1" src="https://github.com/user-attachments/assets/310f8ab3-43e5-4313-9116-4016cc50b127" />
+<img width="850" height="550" alt="welc_1" src="https://github.com/user-attachments/assets/38863e31-12bf-4bd3-b365-52824dc50742" />
+
+
 <img width="850" height="624" alt="testgifwelc1" src="https://github.com/user-attachments/assets/310f8ab3-43e5-4313-9116-4016cc50b127" />
 
 Hi 👋 My alias is DeltaCaster
