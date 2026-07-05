@@ -1,6 +1,7 @@
 <img width="850" height="550" alt="welc_1" src="https://github.com/user-attachments/assets/38863e31-12bf-4bd3-b365-52824dc50742" />
 <img width="850" height="550" alt="whoami_1" src="https://github.com/user-attachments/assets/e4979d07-3f74-4ddf-8938-6ae3cb2cf70d" />
 <img width="850" height="250" alt="skills_1" src="https://github.com/user-attachments/assets/eb7ccf92-75e0-416c-b28b-7c483f6af16a" />
+<img width="850" height="250" alt="stats_gif" src="https://github.com/user-attachments/assets/6df6e48d-bec4-4088-aebc-4bc3756de066" />
 
 Hi 👋 My alias is DeltaCaster
 ======================
