@@ -230,4 +230,4 @@
 
 <img width="850" height="250" alt="guestbook_gif" src="https://github.com/user-attachments/assets/16fceee6-2a36-45ad-aec7-8a1f02c1104e" />
 
-<img width="850" height="250" alt="statsend_gif" src="https://github.com/user-attachments/assets/a86d4a37-8cd5-4aca-b456-67407bb1c3e5" />
+<img width="850" height="250" alt="guestbookend_gif" src="https://github.com/user-attachments/assets/2c21cf0e-36db-42e5-bb67-490d96f65d7b" />
