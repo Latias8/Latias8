@@ -211,6 +211,13 @@
   <br><sub>After Effects</sub>
 </p>
 
+<p align="center">
+  <a href="https://www.reaper.fm" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/it/c/cf/REAPER_logo.png" alt="Reaper DAW" width="40" height="40"/>
+  </a>
+  <br><sub>Reaper DAW</sub>
+</p>
+
 </td>
 </tr>
 </table>
