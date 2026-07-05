@@ -231,3 +231,7 @@
 <img width="850" height="250" alt="guestbook_gif" src="https://github.com/user-attachments/assets/16fceee6-2a36-45ad-aec7-8a1f02c1104e" />
 
 <img width="850" height="250" alt="guestbookend_gif" src="https://github.com/user-attachments/assets/2c21cf0e-36db-42e5-bb67-490d96f65d7b" />
+
+
+Thank you for reading through my profile! ^^ If you'd like (and enjoy the aesthetic of this readme), I'd love to see you come by my site and maybe leave a message :D
+<a href="https://isigia.dev" target="_blank" rel="noreferrer">My site!</a>
