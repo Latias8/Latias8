@@ -228,6 +228,6 @@
 
 <img width="850" height="550" alt="contacts_gif" src="https://github.com/user-attachments/assets/c7729b01-d72b-4a8d-a495-b312f99b968b" />
 
-<img width="850" height="250" alt="stats_gif" src="https://github.com/user-attachments/assets/6df6e48d-bec4-4088-aebc-4bc3756de066" />
+<img width="850" height="250" alt="guestbook_gif" src="https://github.com/user-attachments/assets/16fceee6-2a36-45ad-aec7-8a1f02c1104e" />
 
 <img width="850" height="250" alt="statsend_gif" src="https://github.com/user-attachments/assets/a86d4a37-8cd5-4aca-b456-67407bb1c3e5" />
